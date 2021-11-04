@@ -2,7 +2,7 @@
 
 Facilate commands and patterns of commands I find myself needing.
 
-You can either execute the command files, i.e. `./s3cat.sh <bucket> <object/path> or alias the commands in your `.zshrc` or `.bashrc` file.
+You can either execute the command files, i.e. `./s3cat.sh <bucket> <object/path>` or alias the commands in your `.zshrc` or `.bashrc` file.
 
 ## s3cat.sh
 
